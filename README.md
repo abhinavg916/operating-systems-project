@@ -1,7 +1,9 @@
 # Operating Systems Project
-* An evaluation project as a part of Academic in the course of Operating System.
-* Programming Language - C
-```
+
+- An evaluation project as a part of Academic in the course of Operating Systems.
+- Programming Language - C
+  
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
